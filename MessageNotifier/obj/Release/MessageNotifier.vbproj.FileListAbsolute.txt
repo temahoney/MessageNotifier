@@ -1,0 +1,7 @@
+C:\Users\tmahoney\Documents\Visual Studio Projects\MessageNotifier\MessageNotifier\bin\MessageNotifier.exe
+C:\Users\tmahoney\Documents\Visual Studio Projects\MessageNotifier\MessageNotifier\bin\MessageNotifier.xml
+C:\Users\tmahoney\Documents\Visual Studio Projects\MessageNotifier\MessageNotifier\obj\Release\ResolveAssemblyReference.cache
+C:\Users\tmahoney\Documents\Visual Studio Projects\MessageNotifier\MessageNotifier\obj\Release\MessageNotifier.Form2.resources
+C:\Users\tmahoney\Documents\Visual Studio Projects\MessageNotifier\MessageNotifier\obj\Release\MessageNotifier.vbproj.GenerateResource.Cache
+C:\Users\tmahoney\Documents\Visual Studio Projects\MessageNotifier\MessageNotifier\obj\Release\MessageNotifier.exe
+C:\Users\tmahoney\Documents\Visual Studio Projects\MessageNotifier\MessageNotifier\obj\Release\MessageNotifier.xml

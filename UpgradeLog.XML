@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MessageNotifier">
+</Property><Property Name="Solution File" Value="C:\Users\tmahoney\Documents\Visual Studio Projects\MessageNotifier\MessageNotifier.sln">
+</Property><Property Name="Date" Value="Friday, January 21, 2011">
+</Property><Property Name="Time" Value="10:11 AM">
+</Property></Properties><Event ErrorLevel="0" Project="MessageNotifier" Source="MessageNotifier\MessageNotifier.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MessageNotifier" Source="MessageNotifier\MessageNotifier.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MessageNotifier.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MessageNotifier.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MessageNotifier" Source="MessageNotifier\MessageNotifier.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
